@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Asteroid
+  - Laser
+  - Collectible
+  - Boss
+  - BossLaser
   layers:
   - Default
   - TransparentFX
